@@ -1,0 +1,76 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #0a0a0a;
+  color: #e8e8e8;
+  text-align: center;
+  transition: background-color 0.15s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+#heading {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+#subheading {
+  font-family: 'Open Sans', sans-serif;
+  color: #9a9a9a;
+  max-width: 420px;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+#startButton {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.9rem 2.2rem;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  background: #1a1a1a;
+  color: #e8e8e8;
+  cursor: pointer;
+  transition: background 0.15s ease, border_color 0.15s ease, transform 0.1s ease;
+}
+
+#startButton:hover {
+  background: #242424;
+  border-color: #555;
+}
+
+#startButton:active {
+  transform: scale(0.97);
+}
+
+#result {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+  min-height: 1.5em;
+}
+
+.bold {
+  font-weight: 700;
+  color: #4ade80;
+}
+
+.text-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-opensans {
+  font-family: 'Open Sans', sans-serif;
+}
+
