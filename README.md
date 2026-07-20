@@ -4,6 +4,9 @@ a simple reaction time tester that flashes red then green, click too early and i
 
 ### [play here](sahilchess.github.io/reaction-test/)
 
+
+<img width="2500" height="auto" alt="image" src="https://github.com/user-attachments/assets/e20b7ae6-23c2-4332-998f-a1cff1395f53" />
+
 ---
 
 ## wut this?
