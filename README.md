@@ -2,7 +2,7 @@
 
 a simple reaction time tester that flashes red then green, click too early and it counts as a misclick, click on green and it tells you your speed in ms.
 
-### [play here](demo here)
+### [play here](sahilchess.github.io/reaction-test/)
 
 ---
 
@@ -16,7 +16,7 @@ this tracks how fast you react when the screen turns green. click too soon on re
 * live ms result display
 
 ## How to test it
-1. click the [live demo link](demo here) at the top of this file
+1. click the [live demo link](sahilchess.github.io/reaction-test/) at the top of this file
 2. click start test
 3. wait for green then click as fast as you can
 4. check your reaction time in ms
