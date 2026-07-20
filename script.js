@@ -54,6 +54,7 @@ function startGame() {
   clicked = false;
   document.body.style.backgroundColor = "#dc2626";  
   screen = "red";
+  subheading.textContent = "wait......";
 
   const delay = getRandomDecimal(1, 10) * 1000;
   setTimeout(() => {
